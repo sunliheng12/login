@@ -15,11 +15,11 @@
 
 <p>Select your favorite browser:</p>
 <form action="/action_page.php">
-  <input type="radio" name="browser" onclick="myFunction(this.value)" value="Internet Explorer">Internet Explorer<br>
-  <input type="radio" name="browser" onclick="myFunction(this.value)" value="Firefox">Firefox<br>
-  <input type="radio" name="browser" onclick="myFunction(this.value)" value="Opera">Opera<br>
-  <input type="radio" name="browser" onclick="myFunction(this.value)" value="Google Chrome">Google Chrome<br>
-  <input type="radio" name="browser" onclick="myFunction(this.value)" value="Safari">Safari<br><br>
+  <input type="radio" name="browser" onclick="myFunction(this.value)" value="Bokura no Live Kimi to no Life">Bokura no Live Kimi to no Life<br>
+  <input type="radio" name="browser" onclick="myFunction(this.value)" value="Natsuiro Egao de 1, 2, Jump!">Natsuiro Egao de 1, 2, Jump!<br>
+  <input type="radio" name="browser" onclick="myFunction(this.value)" value="Love Marginal">Love Marginal<br>
+  <input type="radio" name="browser" onclick="myFunction(this.value)" value="Diamond Princess no Yūutsu">Diamond Princess no Yūutsu<br>
+
 
   Your favorite browser is: <input type="text" id="result">
   <input type="submit" value="Submit form">
