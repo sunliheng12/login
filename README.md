@@ -7,4 +7,4 @@
 <li>Love Marginal<br>
 <img src="https://i.ytimg.com/vi/b7jAPjdYqrI/maxresdefault.jpg">
 <li>Diamond Princess no Yūutsu</p>
- <img src="https://i.ytimg.com/vi/b7jAPjdYqrI/maxresdefault.jpg"> 
+ <img src="https://2.bp.blogspot.com/-AAaBNSjFSus/WFFsSQVqMoI/AAAAAAAAABo/4SApAzt4Si8DgTNUk_u-_jEkP0MciWR2gCLcB/s1600/%25CE%25BCs-First-Love-Live.jpg"> 
