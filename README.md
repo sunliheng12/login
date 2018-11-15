@@ -8,3 +8,28 @@
 <img src="https://i.ytimg.com/vi/b7jAPjdYqrI/maxresdefault.jpg">
 <li>Diamond Princess no Yūutsu</p>
  <img src="https://2.bp.blogspot.com/-AAaBNSjFSus/WFFsSQVqMoI/AAAAAAAAABo/4SApAzt4Si8DgTNUk_u-_jEkP0MciWR2gCLcB/s1600/%25CE%25BCs-First-Love-Live.jpg"> 
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Select your favorite browser:</p>
+<form action="/action_page.php">
+  <input type="radio" name="browser" onclick="myFunction(this.value)" value="Internet Explorer">Internet Explorer<br>
+  <input type="radio" name="browser" onclick="myFunction(this.value)" value="Firefox">Firefox<br>
+  <input type="radio" name="browser" onclick="myFunction(this.value)" value="Opera">Opera<br>
+  <input type="radio" name="browser" onclick="myFunction(this.value)" value="Google Chrome">Google Chrome<br>
+  <input type="radio" name="browser" onclick="myFunction(this.value)" value="Safari">Safari<br><br>
+
+  Your favorite browser is: <input type="text" id="result">
+  <input type="submit" value="Submit form">
+</form>
+
+<script>
+function myFunction(browser) {
+    document.getElementById("result").value = browser;
+}
+</script>
+
+</body>
+</html>
